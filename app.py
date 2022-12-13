@@ -2,7 +2,7 @@ from pathlib import Path
 
 import streamlit as st
 from PIL import Image
-from dateparser.data.date_translation_data import to
+#from dateparser.data.date_translation_data import to
 
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
