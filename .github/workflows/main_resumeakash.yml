@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ResumeAkash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_386F4A2A24804CE5963DDBC0C203C08B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51F73676EDC048ACAA555ECFF874B8A0 }}
